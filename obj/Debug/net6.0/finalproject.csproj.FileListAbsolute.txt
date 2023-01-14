@@ -1,0 +1,15 @@
+/Users/asoby/dev2/finalproject/bin/Debug/net6.0/finalproject
+/Users/asoby/dev2/finalproject/bin/Debug/net6.0/finalproject.deps.json
+/Users/asoby/dev2/finalproject/bin/Debug/net6.0/finalproject.runtimeconfig.json
+/Users/asoby/dev2/finalproject/bin/Debug/net6.0/finalproject.dll
+/Users/asoby/dev2/finalproject/bin/Debug/net6.0/finalproject.pdb
+/Users/asoby/dev2/finalproject/obj/Debug/net6.0/finalproject.csproj.AssemblyReference.cache
+/Users/asoby/dev2/finalproject/obj/Debug/net6.0/finalproject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asoby/dev2/finalproject/obj/Debug/net6.0/finalproject.AssemblyInfoInputs.cache
+/Users/asoby/dev2/finalproject/obj/Debug/net6.0/finalproject.AssemblyInfo.cs
+/Users/asoby/dev2/finalproject/obj/Debug/net6.0/finalproject.csproj.CoreCompileInputs.cache
+/Users/asoby/dev2/finalproject/obj/Debug/net6.0/finalproject.dll
+/Users/asoby/dev2/finalproject/obj/Debug/net6.0/refint/finalproject.dll
+/Users/asoby/dev2/finalproject/obj/Debug/net6.0/finalproject.pdb
+/Users/asoby/dev2/finalproject/obj/Debug/net6.0/finalproject.genruntimeconfig.cache
+/Users/asoby/dev2/finalproject/obj/Debug/net6.0/ref/finalproject.dll
